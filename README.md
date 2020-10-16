@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tim-hilt&theme=radical)
+[![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tim-hilt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on my Bachelors-Thesis about "Computer Vision and Machine Learning for marker-free product identification".
 - 🌱 I’m currently learning Emacs, Linux, Python, C++ and everything related to Machine Learning
