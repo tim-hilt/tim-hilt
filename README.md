@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tim-hilt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I finished my Bachelors-Thesis about "Computer Vision and Machine Learning for marker-free product identification".
-- 🏡 I'm working as a full-stack software-developer (React / Spring-Boot / GraphQL) at Inno-Tec GmbH in Böblingen (Ger.)
-- 🌱 I’m currently learning Mac OSX, full-stack development, Linux, Python, C++ and everything related to Machine Learning
+- 🏡 I was previously working as a full-stack software-developer, -architect and tech-lead (React / Spring-Boot / GraphQL) at Inno-Tec GmbH in Böblingen (DE)
+- 🏡 I'm currently working as a software-developer and -architect for embedded systems at Festo GmbH & Co. KG in Esslingen (DE)
+- 🌱 I’m currently learning C++, embedded systems, software-architecture and multiple other things related to webdev, containerization and performance.
 - 📫 How to reach me: See my LinkedIn-Profile and E-Mail in the left pane
